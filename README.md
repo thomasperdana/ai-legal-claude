@@ -1,31 +1,32 @@
 <p align="center">
-  <h1 align="center">AI Legal Assistant</h1>
-  <p align="center">
-    <strong>14 Skills · 5 Parallel Agents · Professional PDF Reports</strong>
-  </p>
-  <p align="center">
-    Turn Claude Code into an AI-powered legal assistant that reviews contracts, flags risks,<br>
-    generates legal documents, and produces professional PDF reports — all from your terminal.
-  </p>
+  <img src="assets/banner.svg" alt="AI Legal Assistant for Claude Code" width="900"/>
 </p>
 
 <p align="center">
-  <a href="https://www.skool.com/aiworkshop">Join the AI Workshop Community</a> ·
-  <a href="https://github.com/zubair-trabzada/ai-legal-claude/issues">Report Bug</a> ·
-  <a href="https://github.com/zubair-trabzada/ai-legal-claude/issues">Request Feature</a>
+  <strong>AI-powered contract review and legal document generation.</strong> Review contracts, flag risks,<br/>
+  generate NDAs, check compliance, negotiate terms, and produce client-ready PDF reports — all from Claude Code.
+</p>
+
+<p align="center">
+  Every contract has hidden risks. This tool finds them in 60 seconds.
 </p>
 
 ---
 
-## What Is This?
+## Why This Matters
 
-The AI Legal Assistant is a set of **14 Claude Code skills** that analyze contracts, identify risks, generate legal documents, and produce client-ready PDF reports. The flagship command `/legal review` launches **5 AI agents in parallel** to perform a comprehensive contract analysis in under a minute.
-
-**Important:** This tool does NOT provide legal advice. It is designed as a starting point for review. Always consult a licensed attorney before signing contracts or relying on generated documents.
+| Metric | Value |
+|--------|-------|
+| Average legal review cost | $300–$500/hour |
+| Basic contract review | $1,500–$3,000 |
+| Freelancers who don't read contracts | 82% |
+| Cost of one bad clause | $10,000+ |
+| Small businesses without legal review | 67% |
+| Time to review with this tool | Under 60 seconds |
 
 ---
 
-## Quick Install
+## Quick Start
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-legal-claude/main/install.sh | bash
@@ -192,5 +193,5 @@ This tool is for educational and informational purposes only. It does **not** pr
 </p>
 
 <p align="center">
-  <a href="https://www.skool.com/aiworkshop">🎓 Join the AI Workshop Community</a>
+  <a href="https://www.skool.com/aiworkshop">🎓 Learn How to Sell Claude Code Services to Real Businesses</a>
 </p>
